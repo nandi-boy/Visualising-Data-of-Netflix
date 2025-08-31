@@ -46,9 +46,9 @@ The project provides an interactive and visual approach to understand:
     * Matplotlib → Static visualizations (line charts, scatter plots, bar plots)
       
  ## Install required packages:
-     * pip install matplotlib
-     * pip install jupyter
-     * pip install pandas
+      pip install matplotlib
+      pip install jupyter
+      pip install pandas
 
 ## 📈 Visualizations & Insights:
 
